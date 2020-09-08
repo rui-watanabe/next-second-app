@@ -7,7 +7,8 @@
     "express": "^4.17.1",
     "next": "^9.5.1",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.0"
   },
   "devDependencies": {
     "@types/enzyme-adapter-react-16": "^1.0.6",
